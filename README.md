@@ -1,0 +1,2 @@
+# MinionPacketMethod
+download macro make sure forge is downloaded and is version 1.8.9 drag the Packet Mod into your mods folder on minecraft by doing windows + r this will open a box in the bottom left corner of your pc type in the box %appdata% and press enter open .minecraft go to the mods folder and drag in the Packet Mod we downloaded earlier now close out the files open minecraft use /packet  to open the gui enjoy.
